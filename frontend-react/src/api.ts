@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'https://backend-toko-baju.vercel.app/api/baju';
+const API_URL = 'https://toko-baju-app-nwfd.vercel.app/api/baju';
 
 export interface Baju {
   id: number;
